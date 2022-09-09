@@ -1,7 +1,7 @@
 aws_region= "us-east-1"
 aws_zone= "us-east-1a"
 ami= "ami-052efd3df9dad4825"
-type= "t2.small"
+type= "t2.micro"
 vm_tags= "qa"
 vpc_tags= "qa_vpc"
 public_subnet_tags= "qa public subnet"
